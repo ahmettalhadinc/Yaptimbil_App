@@ -1,6 +1,6 @@
 # Yaptimbil_App
 Kendimin uzun süredir React Native,Expo,Firebase,Google Geolocation API kullanarak geliştirdiğim uygulamanın ekran görüntüleri.
-
+https://play.google.com/store/apps/details?id=com.ahmet16.proje linkinden uygulamaya ulaşabilirsiniz.
 <img src="./login.jpeg" alt="Resim Açıklaması" width="300" height="600">
 
 <img src="./register.jpeg" alt="Resim Açıklaması" width="300" height="600">
